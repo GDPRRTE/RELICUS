@@ -1,0 +1,21 @@
+# Virtual Environment
+env/
+
+# Logs
+logs/
+*.log
+
+# Runtime data & Caches
+profiles/
+__pycache__/
+.vscode/
+
+# Excluded Documentation
+CHANGELOG.md
+QUICKSTART.md
+
+# Excluded Data Files
+Processed_Data/
+
+# Excluded Test Files
+test.py

@@ -1,0 +1,37 @@
+2026-05-04 19:30:54,298 - INFO - Starting crawler with 1 URLs
+2026-05-04 19:30:54,317 - INFO - Privacy contact scraper enabled
+2026-05-04 19:30:54,317 - INFO - [1/1] Crawling: femmeactuelle.fr
+2026-05-04 19:30:54,346 - INFO - Using profile: femmeactuelle_fr
+2026-05-04 19:30:54,364 - INFO - ====== WebDriver manager ======
+2026-05-04 19:30:55,187 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-04 19:30:56,603 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-04 19:30:58,018 - INFO - Driver [C:\Users\seclab\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-04 19:30:59,313 - INFO - ChromeDriver with selenium-wire initialized successfully (webdriver-manager)
+2026-05-04 19:30:59,313 - INFO - Navigating to domain root first: https://femmeactuelle.fr
+2026-05-04 19:31:21,737 - INFO - Captured 1 cookies via driver.get_cookies().
+2026-05-04 19:31:21,737 - INFO - Initial cookies after navigation: 1
+2026-05-04 19:31:21,737 - INFO - Waiting for 60 seconds for the page to load...
+2026-05-04 19:32:21,747 - INFO - Waiting for user input...
+2026-05-04 19:32:42,316 - INFO - Capturing data...
+2026-05-04 19:32:42,327 - INFO - Captured 12 cookies via driver.get_cookies().
+2026-05-04 19:32:44,008 - INFO - Capturing 107 total requests from selenium-wire.
+2026-05-04 19:32:44,064 - INFO - Successfully processed 97 requests with responses.
+2026-05-04 19:32:44,092 - INFO - Captured 3 Set-Cookie header occurrences from responses.
+2026-05-04 19:32:44,094 - INFO - Captured 13 cookies via CDP Network.getAllCookies.
+2026-05-04 19:32:44,094 - INFO - Merged cookies count: 13 (selenium=12, cdp=13, set_cookie=3)
+2026-05-04 19:32:44,097 - INFO - POST requests: 15, bodies captured: 15
+2026-05-04 19:32:44,129 - INFO - Data saved: 13 cookies and 97 network requests.
+2026-05-04 19:32:44,130 - INFO - Cookies-only file saved: D:\Sec_GDPR\Sec_GDPR_Code_Final\CookieSniffer-main\profiles\femmeactuelle_fr\cookies.json (13 cookies)
+2026-05-04 19:32:44,131 - INFO - [Privacy Contact Scraper] Starting scan...
+2026-05-04 19:32:44,131 - INFO - [Privacy Contact Scraper] Starting scrape for femmeactuelle.fr
+2026-05-04 19:34:25,965 - INFO - Found 6 privacy contact points for femmeactuelle.fr
+2026-05-04 19:34:25,967 - INFO - [Privacy Contact Scraper] Completed: 6 findings for femmeactuelle.fr
+2026-05-04 19:34:25,970 - INFO - Saved 6 findings to D:\Sec_GDPR\Sec_GDPR_Code_Final\CookieSniffer-main\profiles\femmeactuelle_fr\privacy_contacts_femmeactuelle_fr.csv
+2026-05-04 19:34:25,972 - INFO - [Privacy Contact Scraper] Added 6 entries to privacy_contacts_aggregated.csv
+2026-05-04 19:34:26,500 - INFO - GDPR analysis saved: Processed_Data\femmeactuelle_fr_gdpr_analysis.csv (via D:\Sec_GDPR\Sec_GDPR_Code_Final\CookieSniffer-main\Sec_GDPR\Scripts\python.exe)
+2026-05-04 19:34:26,506 - INFO - Title: Femme Actuelle : votre magazine féminin mode, beauté, cuisine, minceur : Femme Actuelle Le MAG
+2026-05-04 19:34:26,509 - INFO - URL(last visited page/subpage): https://www.femmeactuelle.fr/#/connexion
+2026-05-04 19:34:26,509 - INFO - Cookies captured: 13
+2026-05-04 19:34:26,510 - INFO - Requests captured: 97
+2026-05-04 19:34:29,435 - INFO - Browser closed
+2026-05-04 19:34:29,436 - INFO - Crawler session completed
