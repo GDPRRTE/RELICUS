@@ -1,4 +1,4 @@
-# CookieSniffer
+# RELICUS
 
 Web crawler for cookie tracking and privacy contact extraction with multi-language support.
 
@@ -15,7 +15,7 @@ Web crawler for cookie tracking and privacy contact extraction with multi-langua
 # Install dependencies
 pip install -r requirements.txt
 ```
-# CookieSniffer
+# RESLICUS
 
 Web crawler for cookie tracking and privacy contact extraction with multi-language support.
 
